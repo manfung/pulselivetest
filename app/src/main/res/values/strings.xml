@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pulse Live Test</string>
+    <string name="tv_transition">text view transition</string>
+    <string name="article_activity_id_error">Error retrieving article</string>
+</resources>
